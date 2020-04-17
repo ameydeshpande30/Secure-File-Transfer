@@ -4,3 +4,4 @@ peewee
 requests
 psutil
 pycrypto
+pyAesCrypt
