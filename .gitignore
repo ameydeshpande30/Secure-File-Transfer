@@ -1,0 +1,11 @@
+data.db
+private_key.pem
+Downloads
+Temp
+Share
+dist
+build
+static
+__pycache__
+.vscode
+venv
